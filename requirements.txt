@@ -1,0 +1,5 @@
+openai-whisper 
+pyaudio 
+google-generativeai 
+pyttsx3 
+pyautogui
